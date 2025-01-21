@@ -3,7 +3,16 @@
 Welcome to my little corner of the internet where I turn **caffeine** into **code** and ideas into **reality**! 🎯  
 I'm a **Computer Vision Engineer** by passion and a **Data Analytics Guru** by profession. 📊🤖  
 I forget things faster than my RAM clears cache, so I’m always learning, forgetting, and learning again! 😂
-And here's How we can get in touch: **tariqhadi@hotmail.com** 📧
+
+---
+
+## 📬 How to Contact Me
+
+📧 **Email:** tariqhadi@hotmail.com  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/yourprofile/)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/yourprofile/)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/TariqTalat)  
+
 ---
 
 ## 🧰 Tech Toolbox
@@ -21,14 +30,6 @@ Here are a few things I can (mostly) remember and love working with:
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-007ACC?style=for-the-badge&logo=opencv&logoColor=white)
-
-
-
-## 📫 Connect with me!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/yourprofile/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/yourprofile/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/TariqTalat)
 
 ---
 
