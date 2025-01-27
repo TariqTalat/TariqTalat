@@ -37,7 +37,6 @@ Here are a few things I can (mostly) remember and love working with:
 
 - 😎 I can stare at data dashboards longer than I can at Netflix.
 - ☕ My blood type is "Coffee+".
-- 🔥 My debugging skills are 90% guesswork and 10% divine intervention.
 - 🛠️ Always looking to break things... and then fix them. 🧑‍🔧
 - 🐍 I believe Python is not just a language, it's a lifestyle!
 
