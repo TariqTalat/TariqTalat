@@ -17,7 +17,7 @@ I forget things faster than my RAM clears cache, so I’m always learning, forge
 
 ## 🧰 Tech Toolbox
 
-Here are a few things I can (mostly) remember and love working with:
+Here are a few things I love working with:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
