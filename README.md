@@ -1,4 +1,4 @@
-# Hi there, I'm Tariq Talat! 👋🚀
+# Hi there, I'm Tariq Talat! 👋
 
 Welcome to my little corner of the internet where I turn **caffeine** into **code** and ideas into **reality**! 🎯  
 I'm a **Computer Vision Engineer** by passion and a **Data Analytics Guru** by profession. 📊🤖  
