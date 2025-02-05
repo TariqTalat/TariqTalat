@@ -42,5 +42,5 @@ Here are a few things I love working with:
 
 ---
 
-⭐ **Don't forget to check out my repositories and give them a star if you find them cool!**  
+**Don't forget to check out my repositories and give them a star if you find them cool!** ⭐
 Thanks for stopping by! 🚀
